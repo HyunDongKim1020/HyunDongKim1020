@@ -30,10 +30,3 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunDongKim1020&show_icons=true&theme=dracula)![HyunDongKim1020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunDongKim1020&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 </div>
-
-
-[Github Commit](https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70)
-
-
-
-https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70
