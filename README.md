@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/>
   
+  [게임 구경](https://github.com/BurningFalls/burningfalls.github.io/commit/2df07d8958303396ddb85f3786d1c90e609ec89e)
   
   🖥 Tool 🖥 
   
