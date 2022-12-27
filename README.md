@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/>
   
-  [게임 구경]([https://github.com/BurningFalls/burningfalls.github.io/commit/2df07d8958303396ddb85f3786d1c90e609ec89e](https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70))
+  [게임 구경](https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70)
   
   🖥 Tool 🖥 
   
@@ -31,3 +31,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunDongKim1020&show_icons=true&theme=dracula)![HyunDongKim1020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunDongKim1020&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 </div>
 
+
+[Github Commit](https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70)
+
+
+
+https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70
