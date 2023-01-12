@@ -11,9 +11,9 @@
   주로 간단하게 코딩을 공부하며 게임 개발자를 꿈꾸는 학생입니다.😋
 
   🦄 Follow 🦄  
-    
-  <img src="https://img.shields.io/badge/Instagram_handoy123-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
-  <a href="https://zrr.kr/gGhN"><img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram_handoy123-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
+  <a href="https://zrr.kr/gGhN"></a>
+  <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
 
   
   🖥 Tool 🖥 
