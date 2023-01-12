@@ -14,7 +14,11 @@
     
   <img src="https://img.shields.io/badge/Instagram_handoy123-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/>
-  <a href="https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70"><img src="<img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/>"/></a>
+
+  <a href="https://zrr.kr/gGhN"><img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
+
+   <a href="링크"><img src="위에있는뱃지코드"/></a>
+
   
   [게임 구경](https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70)
   
