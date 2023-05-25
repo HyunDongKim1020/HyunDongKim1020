@@ -13,7 +13,7 @@
   🦄 Follow 🦄  
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram_handoy123-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
   <a href="https://zrr.kr/gGhN"></a>
-  <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
+  <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></https://www.notion.so/Unity-c-c-7ec12f4e9faf426cbc38c9774ff66d70>
 
   
   🖥 Tool 🖥 
